@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html ng-app="ranking">
+
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="../css/material.css">
+
+    <style>
+        .list-icon {
+            width: 75px;
+        }
+    </style>
+    <script defer src="../js/material.js"></script>
+    <script type="text/javascript" src="../js/angular.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</head>
+
+<body>
+    <div ng-controller="RankingController as ranking">
+        <ul class="mdl-list">
+            <div ng-repeat="entry in ranking.entries">
+                <div class="mdl-card--border mdl-shadow--2dp">
+                    <li class="mdl-list__item mdl-list__item--two-line">
+                        <span class="list-icon"><img ng-src=" {{entry[ 'im:image'][0].label}} " alt=" "></span>
+                        <span class="mdl-list__item-primary-content">    
+                    <span><a ng-href="{{entry['link']['attributes']['href']}}">{{entry['im:name'].label}}</a></span>
+                        <span class="mdl-list__item-sub-title">{{entry['im:artist'].label}}</span>
+                        </span>
+                        <audio ng-src="{{entry['link'][1]['attributes'].href}}" preload="none" controls></audio>
+
+                    </li>
+                </div>
+            </div>
+        </ul>
+    </div>
+
+</html>

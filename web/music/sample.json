@@ -1,0 +1,1170 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/jp/itunes/"
+            }
+        },
+        "entry": [{
+            "im:name": {
+                "label": "Have a nice day"
+            },
+            "im:image": [{
+                "label": "http://is2.mzstatic.com/image/thumb/Music60/v4/e1/01/7f/e1017f4f-c959-af26-0ec4-93b400392bf8/dj.rshxzmui.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Music60/v4/e1/01/7f/e1017f4f-c959-af26-0ec4-93b400392bf8/dj.rshxzmui.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Music60/v4/e1/01/7f/e1017f4f-c959-af26-0ec4-93b400392bf8/dj.rshxzmui.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "Just LOVE"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/just-love/id1124823405?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "¥250",
+                "attributes": {
+                    "amount": "250.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 SME Records"
+            },
+            "title": {
+                "label": "Have a nice day - 西野 カナ"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/have-a-nice-day/id1124823405?i=1124823457&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/b6/21/ff/b621ffc9-0468-0531-78e0-57d15c565a74/mzaf_4573608305652099166.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/have-a-nice-day/id1124823405?i=1124823457&uo=2",
+                "attributes": {
+                    "im:id": "1124823457"
+                }
+            },
+            "im:artist": {
+                "label": "西野 カナ",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/xi-yekana/id410542403?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-07-13T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年7月13日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "YEAH!! YEAH!! YEAH!!"
+            },
+            "im:image": [{
+                "label": "http://is4.mzstatic.com/image/thumb/Music18/v4/6c/32/b9/6c32b991-3f61-6e07-dab7-5deefccfd1e4/RZCD-86144.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is5.mzstatic.com/image/thumb/Music18/v4/6c/32/b9/6c32b991-3f61-6e07-dab7-5deefccfd1e4/RZCD-86144.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Music18/v4/6c/32/b9/6c32b991-3f61-6e07-dab7-5deefccfd1e4/RZCD-86144.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "YEAH!! YEAH!! YEAH!! - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/yeah!!-yeah!!-yeah!!-single/id1129084958?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 AVEX MUSIC CREATIVE INC."
+            },
+            "title": {
+                "label": "YEAH!! YEAH!! YEAH!! - EXILE THE SECOND"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/yeah!!-yeah!!-yeah!!/id1129084958?i=1129085174&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/f7/89/66/f78966b4-1378-8ccd-1453-7e3e4ca635b1/mzaf_8090320111389195573.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/yeah!!-yeah!!-yeah!!/id1129084958?i=1129085174&uo=2",
+                "attributes": {
+                    "im:id": "1129085174"
+                }
+            },
+            "im:artist": {
+                "label": "EXILE THE SECOND",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/exile-the-second/id1119413266?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-07-13T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年7月13日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "Yell"
+            },
+            "im:image": [{
+                "label": "http://is5.mzstatic.com/image/thumb/Music60/v4/00/ac/64/00ac6472-f6c6-91b9-c5c0-99b778536b37/ANTCD-18494.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Music60/v4/00/ac/64/00ac6472-f6c6-91b9-c5c0-99b778536b37/ANTCD-18494.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Music60/v4/00/ac/64/00ac6472-f6c6-91b9-c5c0-99b778536b37/ANTCD-18494.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "Yell - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/yell-single/id1126662179?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 AVEX MUSIC CREATIVE INC."
+            },
+            "title": {
+                "label": "Yell - AAA"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/yell/id1126662179?i=1126662392&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/42/30/0f/42300f51-dec5-fd5a-a0c6-c158f4053a8c/mzaf_3559653020825561127.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/yell/id1126662179?i=1126662392&uo=2",
+                "attributes": {
+                    "im:id": "1126662392"
+                }
+            },
+            "im:artist": {
+                "label": "AAA",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/aaa/id79789358?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-07-06T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年7月6日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "花束を君に"
+            },
+            "im:image": [{
+                "label": "http://is1.mzstatic.com/image/thumb/Music49/v4/e6/5b/2b/e65b2b73-8bd8-0db4-66f2-ae7ae402b41d/16UMGIM19471.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Music49/v4/e6/5b/2b/e65b2b73-8bd8-0db4-66f2-ae7ae402b41d/16UMGIM19471.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is5.mzstatic.com/image/thumb/Music49/v4/e6/5b/2b/e65b2b73-8bd8-0db4-66f2-ae7ae402b41d/16UMGIM19471.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "花束を君に - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/hanataba-wo-kimini-single/id1100188251?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "¥250",
+                "attributes": {
+                    "amount": "250.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 Virgin Music, A Division of Universal Music, LLC"
+            },
+            "title": {
+                "label": "花束を君に - 宇多田ヒカル"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/hua-shuwo-junni/id1100188251?i=1100188518&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview20/v4/8d/d8/5f/8dd85fe9-1fda-e6ed-41dd-d361e4e164f2/mzaf_1929557033096513167.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/hua-shuwo-junni/id1100188251?i=1100188518&uo=2",
+                "attributes": {
+                    "im:id": "1100188518"
+                }
+            },
+            "im:artist": {
+                "label": "宇多田ヒカル",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/yu-duo-tianhikaru/id74562493?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-04-15T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年4月15日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "魔法って言っていいかな?"
+            },
+            "im:image": [{
+                "label": "http://is5.mzstatic.com/image/thumb/Music60/v4/20/0a/90/200a90a5-5bd0-8422-2c7a-7ac8f4850957/jacket_BVXX00854B01A_550.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Music60/v4/20/0a/90/200a90a5-5bd0-8422-2c7a-7ac8f4850957/jacket_BVXX00854B01A_550.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Music60/v4/20/0a/90/200a90a5-5bd0-8422-2c7a-7ac8f4850957/jacket_BVXX00854B01A_550.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "魔法って言っていいかな? - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/mo-fatte-yantteiikana-single/id1115612193?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "¥250",
+                "attributes": {
+                    "amount": "250.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 Ariola Japan"
+            },
+            "title": {
+                "label": "魔法って言っていいかな? - 平井 堅"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/mo-fatte-yantteiikana/id1115612193?i=1115612426&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview30/v4/17/2e/ea/172eea2f-5359-1dc1-200e-0e117f4e388e/mzaf_6305508492827088223.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/mo-fatte-yantteiikana/id1115612193?i=1115612426&uo=2",
+                "attributes": {
+                    "im:id": "1115612426"
+                }
+            },
+            "im:artist": {
+                "label": "平井 堅",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/ping-jing-jian/id259883314?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-06-03T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年6月3日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "ポストに声を投げ入れて"
+            },
+            "im:image": [{
+                "label": "http://is1.mzstatic.com/image/thumb/Music60/v4/67/25/11/672511ec-e93a-71d4-e1d2-7ce4a0cda66b/jacket_ESCL04642B01A_550.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Music60/v4/67/25/11/672511ec-e93a-71d4-e1d2-7ce4a0cda66b/jacket_ESCL04642B01A_550.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Music60/v4/67/25/11/672511ec-e93a-71d4-e1d2-7ce4a0cda66b/jacket_ESCL04642B01A_550.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "ポストに声を投げ入れて - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/posutoni-shengwo-touge-rurete/id1129048354?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 Epic Records Japan"
+            },
+            "title": {
+                "label": "ポストに声を投げ入れて - YUKI"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/posutoni-shengwo-touge-rurete/id1129048354?i=1129048466&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/cf/b0/cf/cfb0cf39-3ba5-40c5-b093-3f8af541ef39/mzaf_5175144452223649646.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/posutoni-shengwo-touge-rurete/id1129048354?i=1129048466&uo=2",
+                "attributes": {
+                    "im:id": "1129048466"
+                }
+            },
+            "im:artist": {
+                "label": "YUKI",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/yuki/id572340068?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-07-13T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年7月13日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "シュガーソングとビターステップ"
+            },
+            "im:image": [{
+                "label": "http://is3.mzstatic.com/image/thumb/Music5/v4/08/b3/f3/08b3f328-64c5-41bc-a012-580175888d1e/TFCC-89548WW.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Music5/v4/08/b3/f3/08b3f328-64c5-41bc-a012-580175888d1e/TFCC-89548WW.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Music5/v4/08/b3/f3/08b3f328-64c5-41bc-a012-580175888d1e/TFCC-89548WW.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "シュガーソングとビターステップ - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/sugar-song-bitter-step-single/id993140033?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "¥250",
+                "attributes": {
+                    "amount": "250.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2015 TOY'S FACTORY"
+            },
+            "title": {
+                "label": "シュガーソングとビターステップ - UNISON SQUARE GARDEN"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/shugasongutobitasuteppu/id993140033?i=993140034&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://a1375.phobos.apple.com/us/r20/Music7/v4/f4/c2/d4/f4c2d4bb-e1a0-dc61-05e4-a4e1b2b0976d/mzaf_3639722924374593301.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/shugasongutobitasuteppu/id993140033?i=993140034&uo=2",
+                "attributes": {
+                    "im:id": "993140034"
+                }
+            },
+            "im:artist": {
+                "label": "UNISON SQUARE GARDEN",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/unison-square-garden/id270311351?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2015-05-20T00:00:00-07:00",
+                "attributes": {
+                    "label": "2015年5月20日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "Overflows~言葉にできなくて~"
+            },
+            "im:image": [{
+                "label": "http://is5.mzstatic.com/image/thumb/Music30/v4/3c/83/2c/3c832c2e-54b7-9b02-4d00-7436d5634e42/16UMGIM34439.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Music30/v4/3c/83/2c/3c832c2e-54b7-9b02-4d00-7436d5634e42/16UMGIM34439.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Music30/v4/3c/83/2c/3c832c2e-54b7-9b02-4d00-7436d5634e42/16UMGIM34439.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "Overflows~言葉にできなくて~ - EP"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/overflows-kotobani-dekinakute/id1126147134?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "¥250",
+                "attributes": {
+                    "amount": "250.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC"
+            },
+            "title": {
+                "label": "Overflows~言葉にできなくて~ - ナオト・インティライミ"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/overflows-yan-yenidekinakute/id1126147134?i=1126147541&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview60/v4/c8/bf/00/c8bf00a8-1321-0981-77c2-06d2d9dbe4ae/mzaf_8829556013467202209.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/overflows-yan-yenidekinakute/id1126147134?i=1126147541&uo=2",
+                "attributes": {
+                    "im:id": "1126147541"
+                }
+            },
+            "im:artist": {
+                "label": "ナオト・インティライミ",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/naoto-intiraimi/id315618232?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-07-06T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年7月6日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "海の声"
+            },
+            "im:image": [{
+                "label": "http://is3.mzstatic.com/image/thumb/Music69/v4/8f/92/99/8f929957-2ddc-990b-473f-e36e0dadd824/15UMGIM69011.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Music69/v4/8f/92/99/8f929957-2ddc-990b-473f-e36e0dadd824/15UMGIM69011.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Music69/v4/8f/92/99/8f929957-2ddc-990b-473f-e36e0dadd824/15UMGIM69011.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "海の声 - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/umino-koe-single/id1058290964?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2015 UNIVERSAL J, a division of UNIVERSAL MUSIC LLC"
+            },
+            "title": {
+                "label": "海の声 - 浦島太郎 (桐谷健太)"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/haino-sheng/id1058290964?i=1058291226&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://a1489.phobos.apple.com/us/r2000/000/Music69/v4/fa/84/0d/fa840d7c-77e1-95ae-4f3c-61bc14ff8f30/mzaf_1850190307293998261.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/haino-sheng/id1058290964?i=1058291226&uo=2",
+                "attributes": {
+                    "im:id": "1058291226"
+                }
+            },
+            "im:artist": {
+                "label": "浦島太郎 (桐谷健太)",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/pu-dao-tai-lang-tong-gu-jian-tai/id1049257089?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2015-12-02T00:00:00-07:00",
+                "attributes": {
+                    "label": "2015年12月2日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "涙"
+            },
+            "im:image": [{
+                "label": "http://is3.mzstatic.com/image/thumb/Music60/v4/a7/71/ed/a771ed75-3f81-41f0-05fc-24c3ba0bf98f/RZCD-86132.jpg/55x55bb-85.jpg",
+                "attributes": {
+                    "height": "55"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Music60/v4/a7/71/ed/a771ed75-3f81-41f0-05fc-24c3ba0bf98f/RZCD-86132.jpg/60x60bb-85.jpg",
+                "attributes": {
+                    "height": "60"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Music60/v4/a7/71/ed/a771ed75-3f81-41f0-05fc-24c3ba0bf98f/RZCD-86132.jpg/170x170bb-85.jpg",
+                "attributes": {
+                    "height": "170"
+                }
+            }],
+            "im:collection": {
+                "im:name": {
+                    "label": "涙 - Single"
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://itunes.apple.com/jp/album/lei-single/id1124759688?uo=2"
+                    }
+                },
+                "im:contentType": {
+                    "im:contentType": {
+                        "attributes": {
+                            "term": "Album",
+                            "label": "アルバム"
+                        }
+                    },
+                    "attributes": {
+                        "term": "Music",
+                        "label": "ミュージック"
+                    }
+                }
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Track",
+                        "label": "トラック"
+                    }
+                },
+                "attributes": {
+                    "term": "Music",
+                    "label": "ミュージック"
+                }
+            },
+            "rights": {
+                "label": "℗ 2016 AVEX MUSIC CREATIVE INC."
+            },
+            "title": {
+                "label": "涙 - GENERATIONS from EXILE TRIBE"
+            },
+            "link": [{
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/album/lei/id1124759688?i=1124759690&uo=2"
+                }
+            }, {
+                "im:duration": {
+                    "label": "301000"
+                },
+                "attributes": {
+                    "title": "プレビュー",
+                    "rel": "enclosure",
+                    "type": "audio/x-m4a",
+                    "href": "http://audio.itunes.apple.com/apple-assets-us-std-000001/AudioPreview18/v4/b0/12/5e/b0125eaf-b43a-6dd1-dcb6-706a99df8248/mzaf_1756009614017503098.plus.aac.p.m4a",
+                    "im:assetType": "preview"
+                }
+            }],
+            "id": {
+                "label": "https://itunes.apple.com/jp/album/lei/id1124759688?i=1124759690&uo=2",
+                "attributes": {
+                    "im:id": "1124759690"
+                }
+            },
+            "im:artist": {
+                "label": "GENERATIONS from EXILE TRIBE",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/artist/generations-from-exile-tribe/id591740317?uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "27",
+                    "term": "J-Pop",
+                    "scheme": "https://itunes.apple.com/jp/genre/myujikku-j-pop/id27?uo=2",
+                    "label": "J-Pop"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-06-29T00:00:00-07:00",
+                "attributes": {
+                    "label": "2016年6月29日"
+                }
+            }
+        }],
+        "updated": {
+            "label": "2016-07-14T02:37:05-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: J-Popのトップソング"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [{
+            "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&id=1024&popId=1"
+            }
+        }, {
+            "attributes": {
+                "rel": "self",
+                "href": "https://itunes.apple.com/jp/rss/topsongs/limit=10/genre=27/json"
+            }
+        }],
+        "id": {
+            "label": "https://itunes.apple.com/jp/rss/topsongs/limit=10/genre=27/json"
+        }
+    }
+}

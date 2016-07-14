@@ -1,0 +1,800 @@
+{
+    "feed": {
+        "author": {
+            "name": {
+                "label": "iTunes Store"
+            },
+            "uri": {
+                "label": "http://www.apple.com/jp/itunes/"
+            }
+        },
+        "entry": [{
+            "im:name": {
+                "label": "スノー SNOW - 自撮り、顔認識スタンプ、ウケるカメラ"
+            },
+            "im:image": [{
+                "label": "http://is5.mzstatic.com/image/thumb/Purple60/v4/e4/1d/62/e41d62b1-b30e-a279-5532-9f453b07466b/mzl.xzgauyds.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Purple60/v4/e4/1d/62/e41d62b1-b30e-a279-5532-9f453b07466b/mzl.xzgauyds.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Purple60/v4/e4/1d/62/e41d62b1-b30e-a279-5532-9f453b07466b/mzl.xzgauyds.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "世界に一つだけのメッセージを！\n\n＊＊＊\nSNOWは、今をシェアする新感覚の動画コミュニケーションアプリです。\n※ App Store無料総合ランキングで20日間連続1位を記録！\n\n \n【SNOWの主な特徴】\n\n1. 顔認識スタンプとフィルター\n・面白い＆可愛いスタンプで新しい自分に変身！\n・1人はもちろん複数人でも楽しめます。\n・700種類以上のスタンプや、30種類以上のフィルターが無料で利用できます。\n・毎週、新しいスタンプをアップデート。\n\n2.  簡単に写真や動画を共有\n・アプリ内で写真や動画のやりとりができます。\n・送り合った写真や動画は24時間後自動で消えます。\n・相手が写真をスクリーンショットした場合、ポップで通知します。\n\n3. 新感覚GIFメッセージ\n・即興でオリジナルのスタンプ（GIFアニメ）を作ることができます。\n\n4. 今の瞬間を友達に中継できる「ストーリー」機能\n・撮影した写真や動画をSNOW内で投稿し、プチLIVE配信が出来ます\n・公開範囲設定が可能なため、見せたい人にのみ共有可能です。\n・24時間で投稿内容が消えます。\n※アプリ利用は無料ですが、別途パケット通信料が発生しますので、パケット定額への加入をお勧め致します。\n\n\n＊SNOW Official Site : https://snow.me\n＊SNOW Official Twitter : https://twitter.com/SNOW_jp_SNOW \n＊SNOW Official Facebook : https://www.facebook.com/snowappJP\n＊法人様用お問い合わせ: dl_snowoperation@campmobile.com\n\n＊Face Technology by SenseTime"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© CampMobile Inc."
+            },
+            "title": {
+                "label": "スノー SNOW - 自撮り、顔認識スタンプ、ウケるカメラ - CampMobile Inc."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/suno-snow-zi-cuori-yan-ren/id1022267439?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/suno-snow-zi-cuori-yan-ren/id1022267439?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "1022267439",
+                    "im:bundleId": "com.campmobile.snow"
+                }
+            },
+            "im:artist": {
+                "label": "CampMobile Inc.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/campmobile-inc./id1022267438?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6008",
+                    "term": "Photo & Video",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-xie-zhen-bideo/id6008?mt=8&uo=2",
+                    "label": "写真／ビデオ"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2015-11-03T21:50:17-07:00",
+                "attributes": {
+                    "label": "2015年11月3日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "黒子のバスケ CROSS COLORS"
+            },
+            "im:image": [{
+                "label": "http://is1.mzstatic.com/image/thumb/Purple20/v4/45/60/05/45600575-4d8f-5664-ee3a-f1c3ec165ff4/mzl.dxaootoo.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Purple20/v4/45/60/05/45600575-4d8f-5664-ee3a-f1c3ec165ff4/mzl.dxaootoo.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is5.mzstatic.com/image/thumb/Purple20/v4/45/60/05/45600575-4d8f-5664-ee3a-f1c3ec165ff4/mzl.dxaootoo.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "ついにスマホに≪キセキ≫がやってくる―――\n「黒子のバスケ」のアプリゲームが登場！\n全編書き下ろし！完全オリジナルストーリーのアドベンチャーゲーム！\n\n◆前代未聞の６校合同合宿が今始まる！◆\n合宿所に集められた、誠凛高校、海常高校、秀徳高校、桐皇学園高校、陽泉高校、洛山高校のメンバーたち。\n40キャラ以上が登場する合同合宿の様子をシナリオで楽しめる。\n各校入り混じっての練習シーンはもちろん、宿泊所や大食堂での日常シーンも見逃せない！\n\n◆描き下ろしイラストや、一部録り下ろしボイスも！◆\n合宿ならではのキャラクター同士のやりとりを、シナリオ・イラスト・ボイスで満喫しよう！\n\n◆初期配信の合宿ストーリーはこの２校！◆\n①黒子テツヤ／誠凛高校篇\n②黄瀬涼太／海常高校篇\n秀徳高校編以降の合宿ストーリーや、毎月変わるイベントストーリーも続々配信予定！\nストーリーを進めると、キャラクターのフォトやメール、アバターアイテムをＧＥＴ出来る！\n\n◆１日１話無料で読める！◆\n合宿ストーリーは１日１話無料で読めて、１ルートにつき２５話構成。１５０,０００字以上の大ボリューム！\nさらにストーリー中の選択肢でエンディングが分岐？！\n\n◆お気に入りのキャラクターを着せかえ！◆\n黒子、火神、「キセキの世代」をアイテムで着せ替えたり、それぞれのお部屋に選手アバターを飾ってパワーアップすることが可能！（選手アバターは黒子、火神、「キセキの世代」以外も登場します）\n\n\n【推奨機種】 \niPhone4S以降\n\n【推奨ＯＳバージョン】 \niOS Ver 7.1以上\n\n【免責事項】\n(1)推奨機種および、推奨OSバージョン以外での動作につきましては、サポートの対象外となります。\n(2)お客様のご利用状況により、推奨機種であっても動作が不安定な場合があります。\n\n【最新の推奨機種や、その他のお問合わせについて】\nhttp://bnfaq.channel.or.jp/contact/faq_list/1725\n\nご利用前に「ご利用規約」をご確認の上、ご利用下さい。\n\n・本アプリケーションは、権利者の正式な許諾を得て配信しています。"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© （C）藤巻忠俊／集英社・黒子のバスケ製作委員会 （C）BANDAI NAMCO Entertainment Inc.　created by CYBIRD"
+            },
+            "title": {
+                "label": "黒子のバスケ CROSS COLORS - BANDAI NAMCO Entertainment Inc."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/hei-zinobasuke-cross-colors/id1121468972?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/hei-zinobasuke-cross-colors/id1121468972?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "1121468972",
+                    "im:bundleId": "jp.co.bandainamcoent.BNEI0243"
+                }
+            },
+            "im:artist": {
+                "label": "BANDAI NAMCO Entertainment Inc.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/bandai-namco-entertainment/id352305770?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6014",
+                    "term": "Games",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&uo=2",
+                    "label": "ゲーム"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-07-10T19:12:51-07:00",
+                "attributes": {
+                    "label": "2016年7月10日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "Yahoo!天気 - 雨雲の接近や台風の進路がわかる無料の気象予報アプリ"
+            },
+            "im:image": [{
+                "label": "http://is5.mzstatic.com/image/thumb/Purple18/v4/ca/b1/f2/cab1f2fa-1123-7ff3-7cf4-66db3d61f370/mzl.bnfskfzl.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Purple18/v4/ca/b1/f2/cab1f2fa-1123-7ff3-7cf4-66db3d61f370/mzl.bnfskfzl.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Purple18/v4/ca/b1/f2/cab1f2fa-1123-7ff3-7cf4-66db3d61f370/mzl.bnfskfzl.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "完全無料！累計２０００万ダウンロードの進化する天気アプリ。話題のデザインのリニューアル、機能の大幅パワーアップを試してみよう！\n【降水確率や現在の気温をホーム画面のバッジで確認できる便利機能が好評！】\n\n大幅リニューアルで要チェックな７つのポイント\n1. もう迷わない！わかりやすいデザイン\n2. １時間ごとの詳細天気予報がわかる\n3. ６時間先までの雨雲の動きがわかる\n4. 雨雲の接近を通知でお知らせ\n5. ５日間の台風の進路がわかる\n6. 施設名でも登録できる便利な検索機能\n7. Yahoo!JAPAN IDで登録地点を引継ぎ\n\n◇◇主な機能◇◇\n----------------------------------------\n◆天気予報\n- 市区町村毎の天気予報に対応\n　 ※最大５カ所まで登録できます\n- 現在地の天気予報を見ることができます\n- 【NEW!】１時間ごとの詳細な天気予報が見れます\n- 週間の天気予報が見れます\n\n発表時間\n・1日ごとの天気：1日3回 5時、11時、17時に発表\n・1時間ごとの天気：1日12回、2時間毎に発表\n※天気の急変などに応じて時間以外に発表される場合があります\n\n◆天気予報の通知\n- 今日の天気予報、明日の天気予報を通知できます\n　 ※【NEW!】３０分単位で通知を設定できます\n\n◆天気予報のバッジ表示\n- 現在気温【NEW!】、降水確率、最高気温のどれか１つをホーム画面でバッジで確認できます\n　 ※降水確率０％は表示されません\n　 ※現在気温、最高気温は氷点下には対応していません\n\n◆雨雲ズームレーダー\n- 過去と未来の雨雲の動きを予測します\n- 【NEW!】高解像度降水ナウキャスト対応で精細でなめらかな動作を実現\n- 【NEW!】６時間先までの雨雲の動きと降水確率がわかるようになりました\n　 ※Yahoo!JAPAN IDによるログインが必要です\n- 【NEW!】５日間の台風の進路が地図でみえます\n　通常の暴風域モードと５日間進路予想モード、台風の詳細情報に切り替えてみる事ができます\n- 【NEW!】冬季は積雪深がみられるようになりました\n\n◆実況！いまの天気\n- ユーザーの手によって作られるいまの天気情報です\n　雨雲ズームレーダーと併せると予想にも活用できます\n\n◆雨雲接近の通知【NEW!】\n- 現在地や登録地点の雨雲の動きをリアルタイムで予測して雨が降る前に通知します\n　 ※現在地での通知にはYahoo!JAPAN IDによるログインが必要です\n\n◆災害情報\n- 気象庁から発表されている震度３以上の地震、津波、台風接近の情報を表示\n　 ※【UPDATE!】発生地域や状況がひと目でわかる災害速報\n- 気象庁から発表されている気象注意報・警報を市区町村ごとに表示\n- 気象庁から発表されている気象特別警報を表示\n- Yahoo!天気の詳細な災害・防災情報にもすぐアクセスできます\n\n◆地点検索機能【NEW!】\n- 地域名(東京、大阪、札幌)・施設名(駅、ディズニーランド)・郵便番号などの検索で地点を探せます\n- 都道府県ごとの一覧から地点を選択できます\n- 現在地から地点を探せます\n\n◆登録地点の引継ぎ【NEW!】\n- Yahoo!JAPAN IDで登録地点を引き継ぐことができます\n\n◆ウィジェット対応\n- iOS8以降搭載の通知センターに対応\n　ロック解除なしで設定地域の今日の天気を確認できます\n- 【NEW!】雨雲ズームレーダーがウィジェットに対応しました\n\n◆Apple Watch対応\nWatchアプリや文字盤で天気予報を表示できます。\n※Apple Watch対応のiPhone端末のみでご利用頂けます\n\n◆その他の機能\n- iPhone6以降搭載の3D Touch機能に対応\nホーム画面でアプリアイコンを強く押すプレスでメニューを呼び出せます\n\nプレスメニュー\n・今日の天気\n・雨雲ズームレーダー\n・検索\n・全国の天気\n\n- 全国の天気が日本地図でわかります\n\nその他のコンテンツ\n・天気図\n・衛星画像\n・アメダス(気温、降水量、風、日照時間、積雪)\n・火山(噴火警報、噴火予報)\n・落雷\n・波予測\n・風予測\n・霜予測\n・指数(洗濯、傘、紫外線、星空、風邪ひき、肌荒れ、鍋物)\n・PM2.5情報\n・花粉情報\n・レジャー施設(空港、ゴルフ場、釣り、キャンプ場、マリン、野球場、サッカー場、テーマパーク、競馬場)\n・世界の天気(tenki.jp)\n・特集(花見、花火)\n\n\n◇◇ 補足説明◇◇\n----------------------------------------\n\n◆位置情報サービスの利用について\n　位置情報サービス利用を下記3種類から選択していただけます\n　・常に許可\n　・このAppの使用中のみ許可\n　・許可しない\n　現在地の雨雲の接近を通知する、現在地の天気をウィジェットに表示するには「常に許可」を選択してください\n　位置情報サービスの利用設定は、本体の設定からお願いします\n\n◆消費電力について\n　現在地の雨雲の接近を通知したり、現在地の天気をウィジェットに表示するには、定期的に位置情報を更新するために、本体の設定で「位置情報」を常に許可、「Appのバックグラウンド更新」をオンにしていだだく必要があります\n　この機能では、位置情報を常に取得しているのではなく、iOSに用意されている「大幅変更位置情報サービス」を利用して、消費電力を抑えながら現在地と連動した気象情報を取得します\n　Yahoo!天気アプリが電力を大きく消費する事はありませんので、安心してご利用ください\n\n◆iOS8でのバッジ表示について\n　iOSのアップデート後にバッジが更新されなくなる場合があります\n　バッジが更新されない場合、再設定する事でバッジが更新されることが確認できております\n　iOSのアップデート後にバッジが更新されないお客様は、以下の方法をお試しください\n　・Yahoo!天気アプリを起動\n　・「メニュー」をタップ\n　・「アプリの設定」をタップ\n　・「バッジ設定」をタップ\n　・「降水確率/最高気温/現在の気温のバッチ」項目の「表示する」をオフにする\n　・再度、「表示する」をオンにする\n\n情報提供 : 日本気象協会、フランクリン・ジャパン"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© Yahoo Japan"
+            },
+            "title": {
+                "label": "Yahoo!天気 - 雨雲の接近や台風の進路がわかる無料の気象予報アプリ - Yahoo Japan Corp."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/yahoo!-tian-qi-yu-yunno-jie/id521974902?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/yahoo!-tian-qi-yu-yunno-jie/id521974902?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "521974902",
+                    "im:bundleId": "jp.co.yahoo.YWeatherApp"
+                }
+            },
+            "im:artist": {
+                "label": "Yahoo Japan Corp.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/yahoo-japan-corp./id288091005?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6001",
+                    "term": "Weather",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-tian-qi/id6001?mt=8&uo=2",
+                    "label": "天気"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2012-05-09T18:02:04-07:00",
+                "attributes": {
+                    "label": "2012年5月9日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "全て無料（￥0）の音楽アプリ！ MusicShine (ミュージックシャイン) for YouTube"
+            },
+            "im:image": [{
+                "label": "http://is2.mzstatic.com/image/thumb/Purple30/v4/5f/0e/0b/5f0e0ba8-06ba-85cb-b8c0-ec9935a1c09a/mzl.rxgfljja.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Purple30/v4/5f/0e/0b/5f0e0ba8-06ba-85cb-b8c0-ec9935a1c09a/mzl.rxgfljja.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Purple30/v4/5f/0e/0b/5f0e0ba8-06ba-85cb-b8c0-ec9935a1c09a/mzl.rxgfljja.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "■完全無料で聴き放題\n■バックグラウンド + 連続再生\n■最新ランキングを常に表示\n\nMusic Shineは音楽好きのあなたのために作られたスマート ミュージックアプリです。\n主な特徴は以下のとおりです。\n\n・直感的でわかりやすいUIです。\n・シンプル操作ですぐに最新の楽曲が再生できます。\n・あなただけのプレイリストを作成することができます。\n・シャッフル、リピート、バックグラウンド再生も当然できます。\n・検索で数千万曲の音楽に出会えます。\n・整備されたカテゴリから、気分やシーンに合わせた音楽がすぐに見つかります。\n\n[NOTE]\nこのアプリに動画の保存、オフライン再生機能はありません。\nYouTube動画のストリーミング再生を行うアプリです。\n\n-----\n\nこのアプリはyoutube動画のストリーミング再生を行うアプリです。\nyoutube APIで提供されている動画のみを再生しております。\nお使いの端末に意図しないダウンロードや保存は行いません。"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© Music Shine"
+            },
+            "title": {
+                "label": "全て無料（￥0）の音楽アプリ！ MusicShine (ミュージックシャイン) for YouTube - tetsuya ishida"
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/quante-wu-liao-0-no-yin-leapuri!/id1037166961?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/quante-wu-liao-0-no-yin-leapuri!/id1037166961?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "1037166961",
+                    "im:bundleId": "net.kawamuapp.ilovemusic"
+                }
+            },
+            "im:artist": {
+                "label": "tetsuya ishida",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/tetsuya-ishida/id1098439551?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6011",
+                    "term": "Music",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-myujikku/id6011?mt=8&uo=2",
+                    "label": "ミュージック"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-01-27T17:10:32-07:00",
+                "attributes": {
+                    "label": "2016年1月27日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "iTunes U"
+            },
+            "im:image": [{
+                "label": "http://is3.mzstatic.com/image/thumb/Purple30/v4/26/1c/c4/261cc4a4-c697-b307-8c59-d97851461977/mzl.heucdggm.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Purple30/v4/26/1c/c4/261cc4a4-c697-b307-8c59-d97851461977/mzl.heucdggm.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Purple30/v4/26/1c/c4/261cc4a4-c697-b307-8c59-d97851461977/mzl.heucdggm.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "iTunes Uには、教師がiPad上でクラスを運営していくために必要な機能がすべて用意されています。Appや独自の教材を使って授業を組み立てたり、生徒から課題を集めて成績を付けたり、1対1またはグループで討議したり、PDFの課題に注釈を付けたりできます。\n\nまた、iTunes Uでは、iPhone、iPad、またはiPod touchを持っている人ならだれでも、無料教育コンテンツの世界最大のコレクションから学ぶことができます。主要な学校、大学、博物館、文化機関の公開コースやコレクションなどを利用できます。\n\n教師向けの機能:\n• iPadから直接、授業の計画を立てたり、課題に成績を付けたり、生徒とつながったりできます\n• 書類、ワークシート、Webリンク、写真、ビデオなどの独自の教材を追加できます\n• iTunes、App Store、iBooksにあるブック、ビデオ、Podcastなどを使って、学習者全員を引きつけることができます\n• 内蔵の注釈ツールを使って、PDFに指示やコメントを追加できます\n• 生徒がいつ課題を見たか、いつ完了したかを確認したり、提出期限が来たときにリマインドしたりできます\n• 総合成績評価を使って、その場で成績を付けたり、クラス全体の進捗状況を一目で確認したりできます\n• 生徒別の表示を使って、すばやい登録や保護者面談に関する非公開の通知を個々に提供できます\n• 1対1のチャットで個々の質問に答えたり、グループ討議機能を使ってクラス全体で討議したりできます\n• 常に生徒に最新情報を提供して、クラスの準備をして通知することができます\n• 認定教育機関に所属している教師は、自分のコースをiTunes Uカタログで公開して、だれでも無料で利用できるようにすることができます。\n• 管理対象Apple IDでApple School Managerを使用する教育機関は、名簿を読み込んで効率的にコースを作成できるようになりました\n\n生徒向けの機能:\n• 教師から与えられるすべての課題やアップデートを1個所で確認したり、課題が完了するたびに照合できます\n• 非公開コースの課題を、Appleの任意の制作Appや数十もの他社製Appで仕上げて提出したり、注釈付きのPDFとして提出したりできます\n• 1対1の会話で、授業時間外に教師に質問したり、課題を見てもらうことができます\n• クラス全体での討議を開始したり、討議に参加したりできます\n• 過去の全課題について、自分の成績や教師からのフィードバックを確認できます\n\n無料教育コンテンツの世界最大のカタログをブラウズ:\n• 代数学から動物学まで数千の科目について、世界中の教育および文化施設の100万を超える無料の講義、ビデオ、ブック、その他のリソースから選択できます\n• Twitter、Facebook、「メール」、および「メッセージ」を使って、好きな講座を友人と共有できます\n• iTunes Uには、スタンフォード、エール、MIT、オックスフォード、マギル大学、ラ・トローブ大学、東京大学、プラド美術館、スミソニアンライブラリー、イギリス国立劇場、アメリカ議会図書館など数多くの機関から提供された教材があります\n\t\n要件:\n• コースに参加するには、iOS 8.3以降を搭載したiPhone、iPad、またはiPod touchが必要です\n• コースを作成するには、iOS 8.3以降を搭載したiPadが必要です\n• 共有iPadおよび管理対象Apple IDには、iOS 9.3以降が必要です\n• 内蔵のPDF注釈機能を使用するには、iPad第3世代以降、iPad mini 2以降が必要です\n• iTunes Storeで使用するように設定されたApple ID\n• コンピュータと同期するには、iTunes 12以降が必要です\n• iTunes Uにコースを公開するには、教師が認定教育機関に所属している必要があります\n• 名簿の読み込みには、管理対象Apple IDが必要です"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© 2016 Apple Inc."
+            },
+            "title": {
+                "label": "iTunes U - Apple"
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/itunes-u/id490217893?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/itunes-u/id490217893?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "490217893",
+                    "im:bundleId": "com.apple.itunesu"
+                }
+            },
+            "im:artist": {
+                "label": "Apple",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/apple/id284417353?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6017",
+                    "term": "Education",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-jiao-yu/id6017?mt=8&uo=2",
+                    "label": "教育"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2012-01-19T08:30:33-07:00",
+                "attributes": {
+                    "label": "2012年1月19日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "Prisma – Art Filters and Photo Effects for Images, Picture Editor for Instagram"
+            },
+            "im:image": [{
+                "label": "http://is2.mzstatic.com/image/thumb/Purple30/v4/2b/60/f8/2b60f869-36b1-7b61-5f15-7395e40a27b4/mzl.xfyxmmub.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Purple30/v4/2b/60/f8/2b60f869-36b1-7b61-5f15-7395e40a27b4/mzl.xfyxmmub.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Purple30/v4/2b/60/f8/2b60f869-36b1-7b61-5f15-7395e40a27b4/mzl.xfyxmmub.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "Be an artist! Turn your photos into awesome artworks:\n- Modern art filters!\n- Stunning photo effects\n- Fast sharing\n\nPrisma transforms your photos into artworks using the styles of famous artists: Munk, Picasso as well as world famous ornaments and patterns. A unique combination of neural networks and artificial intelligence helps you turn memorable moments into timeless art.\n\nPlease free to contact us contact@prisma-ai.com"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© 2016 Prisma Labs inc."
+            },
+            "title": {
+                "label": "Prisma – Art Filters and Photo Effects for Images, Picture Editor for Instagram - Prisma labs, inc."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/prisma-art-filters-photo-effects/id1122649984?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/prisma-art-filters-photo-effects/id1122649984?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "1122649984",
+                    "im:bundleId": "com.prisma-ai.app"
+                }
+            },
+            "im:artist": {
+                "label": "Prisma labs, inc.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/prisma-labs-inc./id1122649983?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6008",
+                    "term": "Photo & Video",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-xie-zhen-bideo/id6008?mt=8&uo=2",
+                    "label": "写真／ビデオ"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-06-11T05:36:20-07:00",
+                "attributes": {
+                    "label": "2016年6月11日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "Yahoo!知恵袋　悩み相談できる Q&A チャット"
+            },
+            "im:image": [{
+                "label": "http://is2.mzstatic.com/image/thumb/Purple60/v4/98/d5/5f/98d55f24-1f8c-088b-9152-0ccee9ab50b9/mzl.ebsewsfh.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Purple60/v4/98/d5/5f/98d55f24-1f8c-088b-9152-0ccee9ab50b9/mzl.ebsewsfh.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Purple60/v4/98/d5/5f/98d55f24-1f8c-088b-9152-0ccee9ab50b9/mzl.ebsewsfh.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "1億超のQ&A数を誇る日本最大級の知恵共有サービス「Yahoo!知恵袋」がアプリでいつでもどこでも利用できます。\n疑問や悩みもYahoo!知恵袋アプリならストレスなく即解決できます。\n\n[Yahoo!知恵袋アプリからのお知らせ]\n■リニューアルしました\n「お気に入りのカテゴリ・検索結果画面をホーム画面へ最大20件登録できるようになりました」\nいつでもどこでもあなたの興味・関心に沿った最新のQ&Aをホームからチェックできます。\n「デザイン・機能を刷新しました」\nスマートフォンに最適化しました。質問、回答、閲覧の使い心地が良くなりました。\n質問に最大カテゴリを２つまで設定できるようになりました。これまで以上に回答が付きやすくなりました。\n\n■Yahoo!知恵袋アプリはこんな人におすすめ\nYahoo!知恵袋で質問・回答する人\nYahoo!知恵袋のおもしろいQ&Aや人気のQ&Aを閲覧する人\nYahoo!知恵袋で検索やカテゴリを使う人\n匿名で知恵袋に質問をしたい人（アプリならコインを消費せずに匿名で質問投稿ができます）\n\n\n[Yahoo!知恵袋アプリの主な機能]\n■PUSH通知で回答・返信をすぐに確認できる！\nアプリなら回答も返信もPUSH通知からすぐに確認できます。\n\n■あなたの興味関心に沿ったQ&Aがホームに流れる！\nお気に入りのカテゴリ・検索結果画面をホーム画面へ最大20件登録できるようになりました。\nいつでもどこでもあなたの興味・関心に沿った最新のQ&Aをホームからチェックできます。\nカテゴリ、検索結果画面、ホーム画面の設定からかんたんに登録できます。\nホームの更新はPUSH通知からも確認できます。\n\n■投稿画面がスムーズでなめらか！\n質問投稿・回答投稿がブラウザー以上にスムーズに投稿できます。\n質問を下書き保存できます。すきま時間に質問の続きを編集できます。\n\n■ランキングは毎日更新！\n人気のQ&Aが毎日更新されてホームからチェックできます。\nアプリで人気のキラキラ知恵袋も毎日更新されます。\n\n■気になるQ&Aは友達に共有！\nSNSやメールで、役立つ情報・おもしろネタをみんなに簡単にシェアできます。\n\n■利用者の声\n・わからないことがあればすぐきけるのでいいですね\n・ちょうど悩み事がありつかってみたらとてもよかったです！\n・わからないことも気軽にすぐ質問できるからむちゃくちゃ便利でイイ！！\n・いままでわざわざサイトまで移動して見てきたので手間がかかりあまり回答、質問をすることがなかったのですが、このアプリを使いはじめてから暇つぶしといえば知恵袋！になってます！\n・操作感度はいいです、ひまつぶしに最適！"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© Yahoo Japan"
+            },
+            "title": {
+                "label": "Yahoo!知恵袋　悩み相談できる Q&A チャット - Yahoo Japan Corp."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/yahoo!-zhi-hui-dai-naomi-xiang/id354626165?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/yahoo!-zhi-hui-dai-naomi-xiang/id354626165?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "354626165",
+                    "im:bundleId": "jp.co.yahoo.chievision"
+                }
+            },
+            "im:artist": {
+                "label": "Yahoo Japan Corp.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/yahoo-japan-corp./id288091005?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6005",
+                    "term": "Social Networking",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-sosharunettowakingu/id6005?mt=8&uo=2",
+                    "label": "ソーシャルネットワーキング"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2010-02-23T13:07:49-07:00",
+                "attributes": {
+                    "label": "2010年2月23日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "LINE 怪盗にゃんこ"
+            },
+            "im:image": [{
+                "label": "http://is4.mzstatic.com/image/thumb/Purple30/v4/d7/94/f6/d794f6be-9783-4e8d-39bf-eef8a4f04b6e/pr_source.jpg/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is1.mzstatic.com/image/thumb/Purple30/v4/d7/94/f6/d794f6be-9783-4e8d-39bf-eef8a4f04b6e/pr_source.jpg/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Purple30/v4/d7/94/f6/d794f6be-9783-4e8d-39bf-eef8a4f04b6e/pr_source.jpg/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "LINE GAMEに新しいカジュアルパズルゲームが登場！\n\n猫だけで結成された怪盗集団「怪盗にゃんこ」\nリーダーのニスケや個性豊かな仲間たちと一緒に、世界一の大怪盗を目指そう！\n天敵「犬警官」の目をかいくぐり、世界中のお宝を盗んで逃げて大冒険\nはたしてにゃんこたちは、無事に立派な大怪盗になれるのか・・・!?\n\n『LINE 怪盗にゃんこ』のご紹介\n\n◆ストーリー◆\n怪盗デビューを迎えた主人公「ニスケ」はお世話係の「アルフレッド」には内緒で、怪盗初日から予告状を送っていた！\nおかげで犬警官は怒って警備がすごく厳重に・・ニスケは無事に怪盗デビューを飾れるのか・・・!?\n\n◆遊び方◆\n『LINE 怪盗にゃんこ』の遊び方は、とてもシンプル！\nプレイ開始時に、にゃんこがいるスタート地点から出口まで、ステージ上にあるお宝を線1本でつなぐことによりお宝を盗んで脱出することができます。\nにゃんこによってそれぞれ、盗む(食べる)ことのできるお宝が異なりますので注意してください。\nステージ上のお宝を合計3つ以上残したまま脱出すると、犬警官に捕まってしまいます。\nにゃんこたちがすべてのお宝を盗めるよう、出口まで導いてあげましょう。\n\n◆こんなアナタにおすすめ！◆\n・パズルが大好き\n・頭を使うことが好き\n・I love cats！可愛いねこが大好き！\n\n難しい操作は一切不要！気軽にお楽しみいただけます！"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© LINE Corporation"
+            },
+            "title": {
+                "label": "LINE 怪盗にゃんこ - LINE Corporation"
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/line-guai-daonyanko/id1097005269?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/line-guai-daonyanko/id1097005269?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "1097005269",
+                    "im:bundleId": "com.linecorp.LGCAT"
+                }
+            },
+            "im:artist": {
+                "label": "LINE Corporation",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/line-corporation/id359067226?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6014",
+                    "term": "Games",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-gemu/id6014?mt=8&uo=2",
+                    "label": "ゲーム"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2016-06-29T20:14:36-07:00",
+                "attributes": {
+                    "label": "2016年6月29日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "Instagram"
+            },
+            "im:image": [{
+                "label": "http://is2.mzstatic.com/image/thumb/Purple18/v4/e0/37/84/e0378423-2820-4973-b04c-2c0e795ae9a0/mzl.yktrixol.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is4.mzstatic.com/image/thumb/Purple18/v4/e0/37/84/e0378423-2820-4973-b04c-2c0e795ae9a0/mzl.yktrixol.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Purple18/v4/e0/37/84/e0378423-2820-4973-b04c-2c0e795ae9a0/mzl.yktrixol.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "Instagramで日常の瞬間をとらえた写真や動画を簡単にシェアすることができます。友達や家族をフォローして、近況を知ることができるだけでなく、世界中の面白いコンテンツを楽しむこともできます。何気ない朝の光景から夢のような旅の写真まで、世界に4億人以上いるコミュニティーメンバーと一緒に、いろいろなコンテンツをシェアしましょう。\n\nInstagramを利用して: \n\tフィルターやクリエイティブツールを使って、写真の明るさやコントラスト、彩度のほか、影、ハイライト、視点などを調節することができます。\n\tフィルターやカスタム手ブレ修正機能で動画をシネマティックな仕上がりにしたり、複数のクリップを組み合わせて1つの動画を作ることができます。 \n\t[発見]タブで、新しい写真や動画をチェックしたり、フォローするアカウントを見つけることができます。\n\tInstagramダイレクトで、友達に非公開でメッセージや写真、動画、フィードの投稿を直接送信できます。\n\tFacebook、Twitter、Tumblrなどのソーシャルメディアで、写真や動画を簡単にシェアできます。\n\tHandoff機能でApple WatchとiPhoneの切り替えができます。"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© 2015 Instagram, LLC."
+            },
+            "title": {
+                "label": "Instagram - Instagram, Inc."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/instagram/id389801252?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/instagram/id389801252?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "389801252",
+                    "im:bundleId": "com.burbn.instagram"
+                }
+            },
+            "im:artist": {
+                "label": "Instagram, Inc.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/instagram-inc./id389801255?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6008",
+                    "term": "Photo & Video",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-xie-zhen-bideo/id6008?mt=8&uo=2",
+                    "label": "写真／ビデオ"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2010-10-06T01:12:41-07:00",
+                "attributes": {
+                    "label": "2010年10月6日"
+                }
+            }
+        }, {
+            "im:name": {
+                "label": "街中のWi-Fiに無料で自動接続 - タウンWiFi"
+            },
+            "im:image": [{
+                "label": "http://is4.mzstatic.com/image/thumb/Purple18/v4/f5/ea/ac/f5eaac40-8d01-b827-e5c8-ac7f85a6a37d/mzl.qyafyzht.png/53x53bb-85.png",
+                "attributes": {
+                    "height": "53"
+                }
+            }, {
+                "label": "http://is3.mzstatic.com/image/thumb/Purple18/v4/f5/ea/ac/f5eaac40-8d01-b827-e5c8-ac7f85a6a37d/mzl.qyafyzht.png/75x75bb-85.png",
+                "attributes": {
+                    "height": "75"
+                }
+            }, {
+                "label": "http://is2.mzstatic.com/image/thumb/Purple18/v4/f5/ea/ac/f5eaac40-8d01-b827-e5c8-ac7f85a6a37d/mzl.qyafyzht.png/100x100bb-85.png",
+                "attributes": {
+                    "height": "100"
+                }
+            }],
+            "summary": {
+                "label": "【街中にある無料WiFiに自動で接続＆認証を実施！もちろん無料！】\n※App Store無料総合ランキングで継続的にTOP10入り！\n\nタウンWiFi（townwifi）は、携帯の通信量を削減し、通信制限にかからないようにするアプリです\n\nアプリ内からWiFiを追加することで、そのWiFiに自動的に接続してくれるだけでなく、認証まで実施してくれます\n\n使えるWiFiが少ない！会員登録がいちいち面倒くさい！WiFiにつなぐとネットができなくなる！（ブラウザを開いて同意が必要）等の問題があるWiFi環境を、タウンWiFiが解決します\n\n■解決法その１　使えるWiFiを増やす\n- アプリ内に表示されているWiFiは、タップするだけで利用できます\n　パスワードがわからずに利用できなかったWiFiが利用できるようになります\n　パスワードを知る手間（店員さんに聞く、ポスターを探す）、いちいち入力する手間を省きます\n\n- アプリ内に表示されるWiFiを増やせます\n　日本中の約200種類のWiFiに自動接続！ユーザの要望をもとに利用できるWiFiをどんどん増やしていきます\n　アプリから簡単に設置リクエストを出せる機能もリリース予定！リクエストが多い順に設置交渉をします　※７月リリース予定\n\n■解決法その２　WiFiに自動接続＆認証\n- 接続のたびにブラウザを開いて確認をする必要がなくなります\n　初回のユーザ登録をすれば後はアプリが全てやってくれるので、快適なWiFiライフが楽しめます\n\n- 接続までのイライラを解消\n　アプリをいちいち立ち上げる必要はありません\n　気づくとWiFiにつながってます\n\nあなたの街をWiFiで覆い、どこに行ってもWiFiにつながっているようにすることで、通信量/通信料を意識しないで済む世の中を作っていきます\n\n■使い方\n1.カード形式で表示されているWiFi一覧から、接続をしたいWiFiを追加し、自動接続設定をインストール\n2.あとはそのWiFiの範囲に入ったら自動的に接続されます\n\n\n■今後のリリース予定\n- WiFiリクエスト機能（設置してほしい場所にリクエストが出来ます）\n- WiFi作成機能（アプリにはないけど利用できるWiFiを、みなさんが新規に作成できます）\n\n■接続可能なWiFi一覧(201種類)\nMEGAWEB, GEO_2nd_Wi-Fi, 東京駅一番街, 品川区, 豊島区, イオンモール(AEONMAL), 秋葉原ＵＤＸ, アンカーコーヒー, Apple Store, アクアシティお台場, 九州佐賀国際空港, あるあるCity, 旭山動物園, パルコ(atPARCO), アトレ(atre), あべちか, バグース(Bagus), ビックカメラ, Brooklyn Parlor, キャナルシティ博多, 秩父 , 千代田区, 沖縄美ら海水族館, コムズガーデン, ドンキホーテ, DORAMA, 新江ノ島水族館, favore, 沖縄市, 東京都, パシフィコ横浜, フレッシュネスバーガー, 川崎フロンターレ, 藤沢市, 福岡市, 原宿クエスト, 東松山, 六本木ヒルズ, 森ビル, ヒロロ, 広島市, 広島国際会議場, 伊勢丹, 石屋製菓,板前寿司, いとちゃんバス, 有楽町イトシア, 丸ビル, 新丸ビル, ランドマークタワー, サンシャインシティ, 調布市, JRバス東北,JR博多シティ,JR東海,JR東日本, JRタワー, 歌舞伎町, 鹿児島空港, 金沢市, 葛飾区, 川越市, 川崎市, 京急ストア, 京王電鉄, 京成電鉄, 京成バス, カメラのキタムラ, 清州市, 神戸空港, コメダ珈琲, LACITTADELLA, ロッテリア, LUMINE(ルミネ), 千葉市, マリノアシティ福岡, マツモトキヨシ, 松屋銀座, 松山市, 名古屋駅, 名古屋鉄道, 幕張メッセ, 東京メトロ(Metro_Free_Wi-Fi), ミッドタウン, 三越, 宮崎県, 渋谷モディ ,MrMax, 三井ショッピングパーク(ららぽーと,ダイバーシティ東京), 宗像市, 名古屋うまいもん, 那覇市, なんばなんなん, 大阪地下街, 奈良市, 奈良県, 北海道航空, 日本橋, 三井不動産, 新潟市, 西鉄, 日産, 奥多摩市, マルイ, 表町商店街, 原宿表参道欅会, 温泉(大分市、別府市、由布院市), 浦安万華郷, 大阪観光局, 大阪国際空港ターミナル, 大田区, パセーラ, PIZALA(ピザーラ), プロント(PRONTO), 楽天カフェ(rakuten-cafe), 千歳アウトレットモール・レラ, S-PAL, 札幌市,札幌地下鉄,さっぽろ地下街, 品川シーズンテラス, 西武鉄道, 新宿区, 新宿バスターミナル, 心斎橋, 平塚競輪場, skylink-spot, アエル, 立川市, 高崎市, 館山市, 東京シティ競馬(大井競馬場), 東京国際フォーラム, 東京国立博物館, 東武グループ, 都営バス, 都営地下鉄, 中野区, 青梅市, 東京ビッグサイト, 東京交通会館, 江東区, トラッド目白, ツルハドラッグ, 対馬市, タリーズコーヒー,つくばエクスプレス, 宇野バス, パルコ,レストラン・バスク, 和歌山市, ホワイティ梅田, Wi2_Free, ワイヤ・アンド・ワイヤレス, 福井市, WonderGOO, ワールドポーターズ,  やまとの湯, 三ツ沢競技場"
+            },
+            "im:price": {
+                "label": "入手",
+                "attributes": {
+                    "amount": "0.00000",
+                    "currency": "JPY"
+                }
+            },
+            "im:contentType": {
+                "attributes": {
+                    "term": "Application",
+                    "label": "アプリケーション"
+                }
+            },
+            "rights": {
+                "label": "© WiFiシェア"
+            },
+            "title": {
+                "label": "街中のWi-Fiに無料で自動接続 - タウンWiFi - WiFiShare Inc."
+            },
+            "link": {
+                "attributes": {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://itunes.apple.com/jp/app/jie-zhongnowi-fini-wu-liaode/id988737164?mt=8&uo=2"
+                }
+            },
+            "id": {
+                "label": "https://itunes.apple.com/jp/app/jie-zhongnowi-fini-wu-liaode/id988737164?mt=8&uo=2",
+                "attributes": {
+                    "im:id": "988737164",
+                    "im:bundleId": "jp.wifishare"
+                }
+            },
+            "im:artist": {
+                "label": "WiFiShare Inc.",
+                "attributes": {
+                    "href": "https://itunes.apple.com/jp/developer/wifishare-inc./id988737163?mt=8&uo=2"
+                }
+            },
+            "category": {
+                "attributes": {
+                    "im:id": "6002",
+                    "term": "Utilities",
+                    "scheme": "https://itunes.apple.com/jp/genre/ios-yutiriti/id6002?mt=8&uo=2",
+                    "label": "ユーティリティ"
+                }
+            },
+            "im:releaseDate": {
+                "label": "2015-09-18T03:03:37-07:00",
+                "attributes": {
+                    "label": "2015年9月18日"
+                }
+            }
+        }],
+        "updated": {
+            "label": "2016-07-13T05:24:05-07:00"
+        },
+        "rights": {
+            "label": "Copyright 2008 Apple Inc."
+        },
+        "title": {
+            "label": "iTunes Store: トップ無料 App"
+        },
+        "icon": {
+            "label": "http://itunes.apple.com/favicon.ico"
+        },
+        "link": [{
+            "attributes": {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&id=1000&popId=27"
+            }
+        }, {
+            "attributes": {
+                "rel": "self",
+                "href": "https://itunes.apple.com/jp/rss/topfreeapplications/limit=10/json"
+            }
+        }],
+        "id": {
+            "label": "https://itunes.apple.com/jp/rss/topfreeapplications/limit=10/json"
+        }
+    }
+}
