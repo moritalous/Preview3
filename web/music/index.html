@@ -1,14 +1,19 @@
 <!DOCTYPE html>
-<meta charset="UTF-8">
 <html ng-app="ranking">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="../css/material.css">
-
     <style>
         .list-icon {
             width: 75px;
+        }
+        
+        .list__item {
+            height: 200px;
         }
     </style>
     <script defer src="../js/material.js"></script>
@@ -21,14 +26,14 @@
         <ul class="mdl-list">
             <div ng-repeat="entry in ranking.entries">
                 <div class="mdl-card--border mdl-shadow--2dp">
-                    <li class="mdl-list__item mdl-list__item--two-line">
+                    <li class="mdl-list__item mdl-list__item--three-line">
                         <span class="list-icon"><img ng-src=" {{entry[ 'im:image'][0].label}} " alt=" "></span>
-                        <span class="mdl-list__item-primary-content">    
-                    <span><a ng-href="{{entry['link']['attributes']['href']}}">{{entry['im:name'].label}}</a></span>
-                        <span class="mdl-list__item-sub-title">{{entry['im:artist'].label}}</span>
+                        <span class="mdl-list__item-primary-content">
+                            <span>{{entry['im:name'].label}} - {{entry['im:artist'].label}}</span>
+                        <span class="mdl-list__item-text-body">
+                                <audio ng-src="{{entry['link'][1]['attributes'].href}}" preload="none" controls></audio>
+                            </span>
                         </span>
-                        <audio ng-src="{{entry['link'][1]['attributes'].href}}" preload="none" controls></audio>
-
                     </li>
                 </div>
             </div>
