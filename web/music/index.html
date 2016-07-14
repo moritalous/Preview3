@@ -8,12 +8,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="../css/material.css">
     <style>
-        .list-icon {
-            width: 75px;
-        }
-        
-        .list__item {
-            height: 200px;
+        .mdl-card--border.mdl-shadow--2dp {
+            padding: 4px;
         }
     </style>
     <script defer src="../js/material.js"></script>
@@ -23,21 +19,17 @@
 
 <body>
     <div ng-controller="RankingController as ranking">
-        <ul class="mdl-list">
-            <div ng-repeat="entry in ranking.entries">
-                <div class="mdl-card--border mdl-shadow--2dp">
-                    <li class="mdl-list__item mdl-list__item--three-line">
-                        <span class="list-icon"><img ng-src=" {{entry[ 'im:image'][0].label}} " alt=" "></span>
-                        <span class="mdl-list__item-primary-content">
-                            <span>{{entry['im:name'].label}} - {{entry['im:artist'].label}}</span>
-                        <span class="mdl-list__item-text-body">
-                                <audio ng-src="{{entry['link'][1]['attributes'].href}}" preload="none" controls></audio>
-                            </span>
-                        </span>
-                    </li>
-                </div>
+        <div ng-repeat="entry in ranking.entries">
+            <div class="mdl-card--border mdl-shadow--2dp">
+                <table>
+                    <tr>
+                        <td><img ng-src=" {{entry[ 'im:image'][0].label}} " alt=" "></td>
+                        <td><span>{{$index + 1}}. {{entry['im:name'].label}} - {{entry['im:artist'].label}}</span></td>
+                    </tr>
+                </table>
+                <audio ng-src="{{entry['link'][1]['attributes'].href}}" preload="none" controls></audio>
             </div>
-        </ul>
+        </div>
     </div>
 
 </html>
